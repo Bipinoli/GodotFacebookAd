@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml",
+            "map": [
+                {
+                    "source": "/home/bipinoli/.gradle/caches/transforms-2/files-2.1/af031a0c2c8647f25f935332b43537af/play-services-basement-11.0.4/res/values-pt-rPT/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "289",
+                        "endColumns": "203",
+                        "endOffsets": "492"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "203",
+                        "endOffsets": "304"
+                    }
+                },
+                {
+                    "source": "/home/bipinoli/.gradle/caches/transforms-2/files-2.1/424a3676c3ad900d07066be7694fd21c/support-compat-28.0.0/res/values-pt-rPT/values-pt-rPT.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "309",
+                        "endColumns": "100",
+                        "endOffsets": "405"
+                    }
+                }
+            ]
+        }
+    ]
+}

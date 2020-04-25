@@ -1,0 +1,263 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:2:1-67:12
+INJECTED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:2:1-67:12
+INJECTED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:2:1-67:12
+INJECTED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:2:1-67:12
+MERGED from [GodotPayment.release.aar] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/d62ec00dd3decae6f8a1e317d59ada06/GodotPayment.release/AndroidManifest.xml:2:1-15:12
+MERGED from [godot-lib.release.aar] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/166c4b6712b91f5d1703a21146230b0c/godot-lib.release/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/a46fbe45faaadfd938a1cdd373754ee3/recyclerview-v7-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:audience-network-sdk:5.8.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/01968a06bb438f5226cef46cde727e3b/audience-network-sdk-5.8.0/AndroidManifest.xml:2:1-27:12
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/af031a0c2c8647f25f935332b43537af/play-services-basement-11.0.4/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/0c3eb59c6b25b08ca9927e44a8b72609/support-v4-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/1beb8b9cbfc39020babbd3af5ed107b5/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/22428c1aea0032c1802b4443675dd11e/support-core-ui-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/bdc7e8b1b05690cb16c7e6c9b18a7f5a/support-core-utils-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/8f071635ae76859821cafbe01a48042e/loader-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/a133f8f83f9dbf82d6f93cf9cb792444/support-media-compat-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/91946100985aac7270fa8a7e5f6cab6d/viewpager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/6cf8a8252156897f6eac2fd57982e20e/coordinatorlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/b89335b8c3576f0de58e96dc851e42b4/drawerlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/292da6ac3aa6056ab6371a6c16edad9f/slidingpanelayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/ad7cb1796e9bfe5d2bfbdddfa6088060/customview-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/0bc30c2b1d35ff4b3388aa5b337cae29/swiperefreshlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/36337f4a321178216953b2b2b7e53564/asynclayoutinflater-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/424a3676c3ad900d07066be7694fd21c/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/afb4fe65448b2f3cd36376b4df54e2dc/documentfile-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/5ece7ec2fa7248e7db61c7ce025cdeb6/localbroadcastmanager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/d994cae4ebac9ae470cf59b9bf86b8f5/print-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/f13f85913fda894ec97d090cf9b80fd1/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/14f224ade835e1b445fc8e2d956f2e49/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/a1c3df0720b44fe4eeaa01c3bdc55085/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/044542332de366ad30350473c18706d5/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/4aee9df5195b7887fd6d8bd1a5c3249d/cursoradapter-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/c122dbce2e18ab598d2bccfc86be1b12/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/2a3713bb6c75600d957d9a072cf09f28/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/937660e1d47a88386c25fe0942a5f09d/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:2:1-67:12
+INJECTED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:2:1-67:12
+INJECTED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:2:1-67:12
+	package
+		ADDED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:4:5-29
+		INJECTED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml
+		INJECTED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:6:5-30
+		INJECTED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml
+		INJECTED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:5:5-28
+		INJECTED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml
+		INJECTED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml
+	android:installLocation
+		ADDED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:7:5-35
+supports-screens
+ADDED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:12:5-16:40
+	android:largeScreens
+		ADDED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:15:9-36
+	android:smallScreens
+		ADDED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:13:9-36
+	android:normalScreens
+		ADDED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:14:9-37
+	android:xlargeScreens
+		ADDED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:16:9-37
+uses-feature#0x00020000
+ADDED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:19:5-21:35
+	android:glEsVersion
+		ADDED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:20:9-41
+	android:required
+		ADDED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:21:9-32
+application
+ADDED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:30:5-65:19
+MERGED from [GodotPayment.release.aar] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/d62ec00dd3decae6f8a1e317d59ada06/GodotPayment.release/AndroidManifest.xml:9:5-13:19
+MERGED from [GodotPayment.release.aar] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/d62ec00dd3decae6f8a1e317d59ada06/GodotPayment.release/AndroidManifest.xml:9:5-13:19
+MERGED from [godot-lib.release.aar] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/166c4b6712b91f5d1703a21146230b0c/godot-lib.release/AndroidManifest.xml:17:5-19:19
+MERGED from [godot-lib.release.aar] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/166c4b6712b91f5d1703a21146230b0c/godot-lib.release/AndroidManifest.xml:17:5-19:19
+MERGED from [com.facebook.android:audience-network-sdk:5.8.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/01968a06bb438f5226cef46cde727e3b/audience-network-sdk-5.8.0/AndroidManifest.xml:14:5-25:19
+MERGED from [com.facebook.android:audience-network-sdk:5.8.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/01968a06bb438f5226cef46cde727e3b/audience-network-sdk-5.8.0/AndroidManifest.xml:14:5-25:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/af031a0c2c8647f25f935332b43537af/play-services-basement-11.0.4/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/af031a0c2c8647f25f935332b43537af/play-services-basement-11.0.4/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/424a3676c3ad900d07066be7694fd21c/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/424a3676c3ad900d07066be7694fd21c/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/f13f85913fda894ec97d090cf9b80fd1/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/f13f85913fda894ec97d090cf9b80fd1/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/424a3676c3ad900d07066be7694fd21c/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:30:18-67
+	tools:ignore
+		ADDED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:30:96-135
+	android:icon
+		ADDED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:30:136-163
+	android:allowBackup
+		ADDED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:30:68-95
+meta-data#xr_mode_metadata_name
+ADDED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:36:9-38:54
+	android:value
+		ADDED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:38:13-51
+	android:name
+		ADDED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:37:13-49
+meta-data#custom_template_plugins
+ADDED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:41:9-43:60
+	android:value
+		ADDED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:43:13-58
+	android:name
+		ADDED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:42:13-51
+activity#com.godot.game.GodotApp
+ADDED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:45:9-59:20
+	android:screenOrientation
+		ADDED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:50:13-50
+	android:label
+		ADDED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:47:13-62
+	android:launchMode
+		ADDED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:49:13-44
+	android:resizeableActivity
+		ADDED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:52:13-47
+	tools:ignore
+		ADDED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:53:13-43
+	android:configChanges
+		ADDED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:51:13-141
+	android:theme
+		ADDED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:48:13-77
+	android:name
+		ADDED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:46:13-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:55:13-58:29
+action#android.intent.action.MAIN
+ADDED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:56:17-69
+	android:name
+		ADDED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:56:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:57:17-77
+	android:name
+		ADDED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:57:27-74
+uses-sdk
+INJECTED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml
+INJECTED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml
+MERGED from [GodotPayment.release.aar] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/d62ec00dd3decae6f8a1e317d59ada06/GodotPayment.release/AndroidManifest.xml:5:5-7:41
+MERGED from [GodotPayment.release.aar] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/d62ec00dd3decae6f8a1e317d59ada06/GodotPayment.release/AndroidManifest.xml:5:5-7:41
+MERGED from [godot-lib.release.aar] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/166c4b6712b91f5d1703a21146230b0c/godot-lib.release/AndroidManifest.xml:7:5-9:41
+MERGED from [godot-lib.release.aar] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/166c4b6712b91f5d1703a21146230b0c/godot-lib.release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/a46fbe45faaadfd938a1cdd373754ee3/recyclerview-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/a46fbe45faaadfd938a1cdd373754ee3/recyclerview-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:audience-network-sdk:5.8.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/01968a06bb438f5226cef46cde727e3b/audience-network-sdk-5.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:audience-network-sdk:5.8.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/01968a06bb438f5226cef46cde727e3b/audience-network-sdk-5.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/af031a0c2c8647f25f935332b43537af/play-services-basement-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/af031a0c2c8647f25f935332b43537af/play-services-basement-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/0c3eb59c6b25b08ca9927e44a8b72609/support-v4-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/0c3eb59c6b25b08ca9927e44a8b72609/support-v4-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/1beb8b9cbfc39020babbd3af5ed107b5/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/1beb8b9cbfc39020babbd3af5ed107b5/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/22428c1aea0032c1802b4443675dd11e/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/22428c1aea0032c1802b4443675dd11e/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/bdc7e8b1b05690cb16c7e6c9b18a7f5a/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/bdc7e8b1b05690cb16c7e6c9b18a7f5a/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/8f071635ae76859821cafbe01a48042e/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/8f071635ae76859821cafbe01a48042e/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/a133f8f83f9dbf82d6f93cf9cb792444/support-media-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/a133f8f83f9dbf82d6f93cf9cb792444/support-media-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/91946100985aac7270fa8a7e5f6cab6d/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/91946100985aac7270fa8a7e5f6cab6d/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/6cf8a8252156897f6eac2fd57982e20e/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/6cf8a8252156897f6eac2fd57982e20e/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/b89335b8c3576f0de58e96dc851e42b4/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/b89335b8c3576f0de58e96dc851e42b4/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/292da6ac3aa6056ab6371a6c16edad9f/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/292da6ac3aa6056ab6371a6c16edad9f/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/ad7cb1796e9bfe5d2bfbdddfa6088060/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/ad7cb1796e9bfe5d2bfbdddfa6088060/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/0bc30c2b1d35ff4b3388aa5b337cae29/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/0bc30c2b1d35ff4b3388aa5b337cae29/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/36337f4a321178216953b2b2b7e53564/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/36337f4a321178216953b2b2b7e53564/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/424a3676c3ad900d07066be7694fd21c/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/424a3676c3ad900d07066be7694fd21c/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/afb4fe65448b2f3cd36376b4df54e2dc/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/afb4fe65448b2f3cd36376b4df54e2dc/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/5ece7ec2fa7248e7db61c7ce025cdeb6/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/5ece7ec2fa7248e7db61c7ce025cdeb6/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/d994cae4ebac9ae470cf59b9bf86b8f5/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/d994cae4ebac9ae470cf59b9bf86b8f5/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/f13f85913fda894ec97d090cf9b80fd1/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/f13f85913fda894ec97d090cf9b80fd1/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/14f224ade835e1b445fc8e2d956f2e49/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/14f224ade835e1b445fc8e2d956f2e49/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/a1c3df0720b44fe4eeaa01c3bdc55085/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/a1c3df0720b44fe4eeaa01c3bdc55085/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/044542332de366ad30350473c18706d5/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/044542332de366ad30350473c18706d5/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/4aee9df5195b7887fd6d8bd1a5c3249d/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/4aee9df5195b7887fd6d8bd1a5c3249d/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/c122dbce2e18ab598d2bccfc86be1b12/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/c122dbce2e18ab598d2bccfc86be1b12/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/2a3713bb6c75600d957d9a072cf09f28/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/2a3713bb6c75600d957d9a072cf09f28/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/937660e1d47a88386c25fe0942a5f09d/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/937660e1d47a88386c25fe0942a5f09d/runtime-1.1.1/AndroidManifest.xml:20:5-44
+INJECTED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml
+INJECTED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml
+		ADDED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml
+		INJECTED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml
+		ADDED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml
+		INJECTED from /home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml
+meta-data#org.godotengine.plugin.v1.GodotPayment
+ADDED from [GodotPayment.release.aar] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/d62ec00dd3decae6f8a1e317d59ada06/GodotPayment.release/AndroidManifest.xml:10:9-12:81
+	android:value
+		ADDED from [GodotPayment.release.aar] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/d62ec00dd3decae6f8a1e317d59ada06/GodotPayment.release/AndroidManifest.xml:12:13-78
+	android:name
+		ADDED from [GodotPayment.release.aar] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/d62ec00dd3decae6f8a1e317d59ada06/GodotPayment.release/AndroidManifest.xml:11:13-66
+instrumentation
+ADDED from [godot-lib.release.aar] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/166c4b6712b91f5d1703a21146230b0c/godot-lib.release/AndroidManifest.xml:11:5-15:57
+	android:label
+		ADDED from [godot-lib.release.aar] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/166c4b6712b91f5d1703a21146230b0c/godot-lib.release/AndroidManifest.xml:14:9-58
+	android:icon
+		ADDED from [godot-lib.release.aar] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/166c4b6712b91f5d1703a21146230b0c/godot-lib.release/AndroidManifest.xml:13:9-36
+	android:targetPackage
+		ADDED from [godot-lib.release.aar] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/166c4b6712b91f5d1703a21146230b0c/godot-lib.release/AndroidManifest.xml:15:9-54
+	android:name
+		ADDED from [godot-lib.release.aar] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/166c4b6712b91f5d1703a21146230b0c/godot-lib.release/AndroidManifest.xml:12:9-45
+service#org.godotengine.godot.GodotDownloaderService
+ADDED from [godot-lib.release.aar] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/166c4b6712b91f5d1703a21146230b0c/godot-lib.release/AndroidManifest.xml:18:9-80
+	android:name
+		ADDED from [godot-lib.release.aar] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/166c4b6712b91f5d1703a21146230b0c/godot-lib.release/AndroidManifest.xml:18:18-77
+uses-permission#android.permission.INTERNET
+ADDED from [com.facebook.android:audience-network-sdk:5.8.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/01968a06bb438f5226cef46cde727e3b/audience-network-sdk-5.8.0/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:5.8.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/01968a06bb438f5226cef46cde727e3b/audience-network-sdk-5.8.0/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.facebook.android:audience-network-sdk:5.8.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/01968a06bb438f5226cef46cde727e3b/audience-network-sdk-5.8.0/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:5.8.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/01968a06bb438f5226cef46cde727e3b/audience-network-sdk-5.8.0/AndroidManifest.xml:12:22-76
+activity#com.facebook.ads.AudienceNetworkActivity
+ADDED from [com.facebook.android:audience-network-sdk:5.8.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/01968a06bb438f5226cef46cde727e3b/audience-network-sdk-5.8.0/AndroidManifest.xml:15:9-19:75
+	android:exported
+		ADDED from [com.facebook.android:audience-network-sdk:5.8.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/01968a06bb438f5226cef46cde727e3b/audience-network-sdk-5.8.0/AndroidManifest.xml:18:13-37
+	android:configChanges
+		ADDED from [com.facebook.android:audience-network-sdk:5.8.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/01968a06bb438f5226cef46cde727e3b/audience-network-sdk-5.8.0/AndroidManifest.xml:17:13-74
+	android:theme
+		ADDED from [com.facebook.android:audience-network-sdk:5.8.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/01968a06bb438f5226cef46cde727e3b/audience-network-sdk-5.8.0/AndroidManifest.xml:19:13-72
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:5.8.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/01968a06bb438f5226cef46cde727e3b/audience-network-sdk-5.8.0/AndroidManifest.xml:16:13-68
+provider#com.facebook.ads.AudienceNetworkContentProvider
+ADDED from [com.facebook.android:audience-network-sdk:5.8.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/01968a06bb438f5226cef46cde727e3b/audience-network-sdk-5.8.0/AndroidManifest.xml:21:9-24:40
+	android:authorities
+		ADDED from [com.facebook.android:audience-network-sdk:5.8.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/01968a06bb438f5226cef46cde727e3b/audience-network-sdk-5.8.0/AndroidManifest.xml:23:13-82
+	android:exported
+		ADDED from [com.facebook.android:audience-network-sdk:5.8.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/01968a06bb438f5226cef46cde727e3b/audience-network-sdk-5.8.0/AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:5.8.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/01968a06bb438f5226cef46cde727e3b/audience-network-sdk-5.8.0/AndroidManifest.xml:22:13-75
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/af031a0c2c8647f25f935332b43537af/play-services-basement-11.0.4/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/af031a0c2c8647f25f935332b43537af/play-services-basement-11.0.4/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/af031a0c2c8647f25f935332b43537af/play-services-basement-11.0.4/AndroidManifest.xml:20:20-65

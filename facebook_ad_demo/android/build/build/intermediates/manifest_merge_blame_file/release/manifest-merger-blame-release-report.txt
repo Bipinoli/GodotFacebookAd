@@ -1,0 +1,160 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.godotengine.facebookaddemo"
+4    android:installLocation="auto"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="18"
+9-->/home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml
+10        android:targetSdkVersion="29" />
+10-->/home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml
+11
+12    <!-- Adding custom text to the manifest is fine, but do it outside the custom USER and APPLICATION BEGIN/END comments, -->
+13    <!-- as that gets rewritten. -->
+14
+15    <supports-screens
+15-->/home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:12:5-16:40
+16        android:largeScreens="true"
+16-->/home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:15:9-36
+17        android:normalScreens="true"
+17-->/home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:14:9-37
+18        android:smallScreens="true"
+18-->/home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:13:9-36
+19        android:xlargeScreens="true" />
+19-->/home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:16:9-37
+20
+21    <!-- glEsVersion is modified by the exporter, changing this value here has no effect. -->
+22    <uses-feature
+22-->/home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:19:5-21:35
+23        android:glEsVersion="0x00020000"
+23-->/home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:20:9-41
+24        android:required="true" />
+24-->/home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:21:9-32
+25
+26    <instrumentation
+26-->[godot-lib.release.aar] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/166c4b6712b91f5d1703a21146230b0c/godot-lib.release/AndroidManifest.xml:11:5-15:57
+27        android:name=".GodotInstrumentation"
+27-->[godot-lib.release.aar] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/166c4b6712b91f5d1703a21146230b0c/godot-lib.release/AndroidManifest.xml:12:9-45
+28        android:icon="@mipmap/icon"
+28-->[godot-lib.release.aar] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/166c4b6712b91f5d1703a21146230b0c/godot-lib.release/AndroidManifest.xml:13:9-36
+29        android:label="@string/godot_project_name_string"
+29-->[godot-lib.release.aar] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/166c4b6712b91f5d1703a21146230b0c/godot-lib.release/AndroidManifest.xml:14:9-58
+30        android:targetPackage="org.godotengine.godot" />
+30-->[godot-lib.release.aar] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/166c4b6712b91f5d1703a21146230b0c/godot-lib.release/AndroidManifest.xml:15:9-54
+31
+32    <uses-permission android:name="android.permission.INTERNET" />
+32-->[com.facebook.android:audience-network-sdk:5.8.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/01968a06bb438f5226cef46cde727e3b/audience-network-sdk-5.8.0/AndroidManifest.xml:11:5-67
+32-->[com.facebook.android:audience-network-sdk:5.8.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/01968a06bb438f5226cef46cde727e3b/audience-network-sdk-5.8.0/AndroidManifest.xml:11:22-64
+33    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- Custom user permissions XML added by add-ons. It's recommended to add them from the export preset, though. -->
+33-->[com.facebook.android:audience-network-sdk:5.8.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/01968a06bb438f5226cef46cde727e3b/audience-network-sdk-5.8.0/AndroidManifest.xml:12:5-79
+33-->[com.facebook.android:audience-network-sdk:5.8.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/01968a06bb438f5226cef46cde727e3b/audience-network-sdk-5.8.0/AndroidManifest.xml:12:22-76
+34    <!-- CHUNK_USER_PERMISSIONS_BEGIN -->
+35    <!-- CHUNK_USER_PERMISSIONS_END -->
+36    <!-- Any tag in this line after android:icon will be erased when doing custom builds. -->
+37    <!-- If you want to add tags manually, do before it. -->
+38    <!-- WARNING: This should stay on a single line until the parsing code is improved. See GH-32414. -->
+39    <application
+39-->/home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:30:5-65:19
+40        android:allowBackup="false"
+40-->/home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:30:68-95
+41        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+41-->[com.android.support:support-compat:28.0.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/424a3676c3ad900d07066be7694fd21c/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+42        android:icon="@mipmap/icon"
+42-->/home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:30:136-163
+43        android:label="@string/godot_project_name_string" >
+43-->/home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:30:18-67
+44
+45        <!-- The following metadata values are replaced when Godot exports, modifying them here has no effect. -->
+46        <!-- Do these changes in the export preset. Adding new ones is fine. -->
+47
+48
+49        <!-- XR mode metadata. This is modified by the exporter based on the selected xr mode. DO NOT CHANGE the values here. -->
+50        <meta-data
+50-->/home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:36:9-38:54
+51            android:name="xr_mode_metadata_name"
+51-->/home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:37:13-49
+52            android:value="xr_mode_metadata_value" />
+52-->/home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:38:13-51
+53
+54        <!-- Metadata populated at export time and used by Godot to figure out which plugins must be enabled. -->
+55        <meta-data
+55-->/home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:41:9-43:60
+56            android:name="custom_template_plugins"
+56-->/home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:42:13-51
+57            android:value="custom_template_plugins_value" />
+57-->/home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:43:13-58
+58
+59        <activity
+59-->/home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:45:9-59:20
+60            android:name="com.godot.game.GodotApp"
+60-->/home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:46:13-37
+61            android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize|density|keyboard|navigation|screenLayout|uiMode"
+61-->/home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:51:13-141
+62            android:label="@string/godot_project_name_string"
+62-->/home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:47:13-62
+63            android:launchMode="singleTask"
+63-->/home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:49:13-44
+64            android:resizeableActivity="false"
+64-->/home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:52:13-47
+65            android:screenOrientation="landscape"
+65-->/home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:50:13-50
+66            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
+66-->/home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:48:13-77
+67            <intent-filter>
+67-->/home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:55:13-58:29
+68                <action android:name="android.intent.action.MAIN" />
+68-->/home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:56:17-69
+68-->/home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:56:25-66
+69
+70                <category android:name="android.intent.category.LAUNCHER" />
+70-->/home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:57:17-77
+70-->/home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/AndroidManifest.xml:57:27-74
+71            </intent-filter>
+72        </activity>
+73
+74        <!-- Custom application XML added by add-ons. -->
+75        <!-- CHUNK_APPLICATION_BEGIN -->
+76        <!-- CHUNK_APPLICATION_END -->
+77
+78        <meta-data
+78-->[GodotPayment.release.aar] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/d62ec00dd3decae6f8a1e317d59ada06/GodotPayment.release/AndroidManifest.xml:10:9-12:81
+79            android:name="org.godotengine.plugin.v1.GodotPayment"
+79-->[GodotPayment.release.aar] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/d62ec00dd3decae6f8a1e317d59ada06/GodotPayment.release/AndroidManifest.xml:11:13-66
+80            android:value="org.godotengine.godot.plugin.payment.GodotPayment" />
+80-->[GodotPayment.release.aar] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/d62ec00dd3decae6f8a1e317d59ada06/GodotPayment.release/AndroidManifest.xml:12:13-78
+81
+82        <service android:name="org.godotengine.godot.GodotDownloaderService" />
+82-->[godot-lib.release.aar] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/166c4b6712b91f5d1703a21146230b0c/godot-lib.release/AndroidManifest.xml:18:9-80
+82-->[godot-lib.release.aar] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/166c4b6712b91f5d1703a21146230b0c/godot-lib.release/AndroidManifest.xml:18:18-77
+83
+84        <activity
+84-->[com.facebook.android:audience-network-sdk:5.8.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/01968a06bb438f5226cef46cde727e3b/audience-network-sdk-5.8.0/AndroidManifest.xml:15:9-19:75
+85            android:name="com.facebook.ads.AudienceNetworkActivity"
+85-->[com.facebook.android:audience-network-sdk:5.8.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/01968a06bb438f5226cef46cde727e3b/audience-network-sdk-5.8.0/AndroidManifest.xml:16:13-68
+86            android:configChanges="keyboardHidden|orientation|screenSize"
+86-->[com.facebook.android:audience-network-sdk:5.8.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/01968a06bb438f5226cef46cde727e3b/audience-network-sdk-5.8.0/AndroidManifest.xml:17:13-74
+87            android:exported="false"
+87-->[com.facebook.android:audience-network-sdk:5.8.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/01968a06bb438f5226cef46cde727e3b/audience-network-sdk-5.8.0/AndroidManifest.xml:18:13-37
+88            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+88-->[com.facebook.android:audience-network-sdk:5.8.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/01968a06bb438f5226cef46cde727e3b/audience-network-sdk-5.8.0/AndroidManifest.xml:19:13-72
+89
+90        <provider
+90-->[com.facebook.android:audience-network-sdk:5.8.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/01968a06bb438f5226cef46cde727e3b/audience-network-sdk-5.8.0/AndroidManifest.xml:21:9-24:40
+91            android:name="com.facebook.ads.AudienceNetworkContentProvider"
+91-->[com.facebook.android:audience-network-sdk:5.8.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/01968a06bb438f5226cef46cde727e3b/audience-network-sdk-5.8.0/AndroidManifest.xml:22:13-75
+92            android:authorities="org.godotengine.facebookaddemo.AudienceNetworkContentProvider"
+92-->[com.facebook.android:audience-network-sdk:5.8.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/01968a06bb438f5226cef46cde727e3b/audience-network-sdk-5.8.0/AndroidManifest.xml:23:13-82
+93            android:exported="false" />
+93-->[com.facebook.android:audience-network-sdk:5.8.0] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/01968a06bb438f5226cef46cde727e3b/audience-network-sdk-5.8.0/AndroidManifest.xml:24:13-37
+94
+95        <meta-data
+95-->[com.google.android.gms:play-services-basement:11.0.4] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/af031a0c2c8647f25f935332b43537af/play-services-basement-11.0.4/AndroidManifest.xml:20:9-121
+96            android:name="com.google.android.gms.version"
+96-->[com.google.android.gms:play-services-basement:11.0.4] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/af031a0c2c8647f25f935332b43537af/play-services-basement-11.0.4/AndroidManifest.xml:20:20-65
+97            android:value="@integer/google_play_services_version" />
+97-->[com.google.android.gms:play-services-basement:11.0.4] /home/bipinoli/.gradle/caches/transforms-2/files-2.1/af031a0c2c8647f25f935332b43537af/play-services-basement-11.0.4/AndroidManifest.xml:20:66-119
+98    </application>
+99
+100</manifest>

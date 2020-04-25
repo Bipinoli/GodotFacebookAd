@@ -1,0 +1,4 @@
+#Sat Apr 25 14:49:58 NPT 2020
+base.0=/home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

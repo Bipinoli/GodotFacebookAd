@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/bipinoli/development/godot/FacebookAd/GodotFacebookAd/facebook_ad_demo/android/build/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ar/values-ar.xml",
+            "map": [
+                {
+                    "source": "/home/bipinoli/.gradle/caches/transforms-2/files-2.1/af031a0c2c8647f25f935332b43537af/play-services-basement-11.0.4/res/values-ar/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "189",
+                        "endOffsets": "474"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "189",
+                        "endOffsets": "290"
+                    }
+                },
+                {
+                    "source": "/home/bipinoli/.gradle/caches/transforms-2/files-2.1/4e8afa2ef36cb190a4be7d6da871f28a/godot-lib.debug/res/values-ar/values-ar.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "75",
+                        "endOffsets": "126"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "295",
+                        "endColumns": "75",
+                        "endOffsets": "366"
+                    }
+                },
+                {
+                    "source": "/home/bipinoli/.gradle/caches/transforms-2/files-2.1/424a3676c3ad900d07066be7694fd21c/support-compat-28.0.0/res/values-ar/values-ar.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "371",
+                        "endColumns": "100",
+                        "endOffsets": "467"
+                    }
+                }
+            ]
+        }
+    ]
+}
