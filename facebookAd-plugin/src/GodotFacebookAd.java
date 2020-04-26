@@ -24,14 +24,19 @@ public class GodotFacebookAd extends Godot.SingletonBase {
     // gdscript instance id
     private int instance_id = 0;
 
-    public void init(String interstitialAdId , String rewardedVideoAdId, int instance_id){
+    public void setup(int pInstanceId) {
+        // You will need to call this method from Godot and pass in the get_instance_id().
+        this.instance_id = pInstanceId;
+    }
+
+
+    public void init(String interstitialAdId , String rewardedVideoAdId){
         AudienceNetworkAds.initialize(this.appContext);// Initializing the audience network
         interstitialAd = new InterstitialAd(this.appContext,interstitialAdId); //initialization of interstitial with placement id given from godot script
         rewardedVideoAd = new RewardedVideoAd(this.appContext,rewardedVideoAdId); // initialization of the rewarded video ad with placement id given from godot script
         interstitialAd.loadAd();
         rewardedVideoAd.loadAd();
 
-        this.instance_id = instance_id;
 
         appActivity.runOnUiThread(new Runnable() {
             public void run() {
@@ -156,11 +161,6 @@ public class GodotFacebookAd extends Godot.SingletonBase {
             Log.d("GodotFacebookAd","RewardedVideo is not Loaded yet !");
         }
     }
-
-    /*public void getInstanceId(int pInstanceId) {
-        // You will need to call this method from Godot and pass in the get_instance_id().
-        instanceId = pInstanceId;
-    }*/
 
     static public Godot.SingletonBase initialize(Activity p_activity) {
         return new GodotFacebookAd(p_activity);
