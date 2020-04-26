@@ -37,8 +37,7 @@ func _enter_tree():
 func init() -> bool:
 	if(Engine.has_singleton("GodotFacebookAd")):
 		_fb_singleton = Engine.get_singleton("GodotFacebookAd")
-		_fb_singleton.setup(get_instance_id())
-		_fb_singleton.init(interstitialAdId, rewardedVideoAdId)
+		_fb_singleton.init(get_instance_id(), interstitialAdId, rewardedVideoAdId)
 		return true
 	return false
 
@@ -101,5 +100,5 @@ func _on_rewarded_video_impression_logged():
 	emit_signal("rewarded_video_impression_logged")
 
 func _on_rewarded_video_complete():
-    emit_signal("rewarded_video_completed")
+	emit_signal("rewarded_video_completed")
 
